@@ -3,10 +3,6 @@
 
 A curated list of dark theme capable apps as well as plugins to enable dark mode in custom website/apps
 
-This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. Non-Free software is listed on the [Non-Free](non-free.md) page.
-
-See [Contributing](.github/CONTRIBUTING.md).
-
 **IMPORTANT NOTE**: Most of the website themes rely on [Stylish](https://userstyles.org/) an extesion to sideload custom CSS into websites.
 It is available for [Chrome]() and [Firefox]()
 
@@ -37,7 +33,7 @@ It is available for [Chrome]() and [Firefox]()
   - Old - Use [RES](https://redditenhancementsuite.com/). Click on the gear and toggle `Night Mode`
 - Twitch - Stylish [Dark Theme for TwitchTV](https://userstyles.org/styles/148766/dark-theme-for-twitchtv)
 - Whatsapp Web - Stylish [Dark WhatsApp](https://userstyles.org/styles/142096/dark-whatsapp-theme-by-mew)
-- Youtube - Builtin, click on your user profile picture. Then `Dark theme: On` 
+- Youtube - Builtin, click on your user profile picture. Then `Dark theme: On`
 - YNAB - Stylish [Blue Grey YNAB](https://userstyles.org/styles/139493/blue-grey-ynab)
 
 ## Apps
@@ -45,6 +41,6 @@ It is available for [Chrome]() and [Firefox]()
 - Chrome
   - Theme
     - [Material Incognito Dark Theme](https://chrome.google.com/webstore/detail/material-incognito-dark-t/ahifcnpnjgbadkjdhagpfjfkmlapfoel?hl=en-GB)
-  - Dev Tools - [ZeroDarkMatrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) theme for      
+  - Dev Tools - [ZeroDarkMatrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) theme for
 
 - macOS 10.14 Mojave - Will feature dark mode [*coming soon*](https://9to5mac.com/2018/06/11/macos-mojave-how-to-dark-mode/)
